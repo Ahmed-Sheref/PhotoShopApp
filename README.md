@@ -19,7 +19,7 @@ All operations are performed through a user-friendly console menu.
 
 ## 📂 Project Structure
 
-```bash
+bash
 ├── Image_Class.h         # Header file for the Image class
 ├── main.cpp              # Main driver file (your current code)
 ├── assets/               # Folder to store input/output images
